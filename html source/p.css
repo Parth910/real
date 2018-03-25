@@ -10,6 +10,7 @@ h1.name1
 	text-shadow: currentColor;
 	font-weight: lighter;
 	font-size: 200px;
+	margin-bottom: 0.5%;
 
 }
 span
@@ -19,25 +20,23 @@ span
 	font-size: 200px;
 }
 
-
-a:link
+a
 {    text-align: center;
 	font-family: verdana;
 	color:  #00FA9A;
 	font-size: 20px;
 	margin-left: 50%;
-	background-color: red;
-	
+	background-color: blue;
+	font-family: Arial,Helvetica,sans-serif;
+
+
     
 	
 }
 a:hover{
-	background-color:green;
-
-	display:block;
-	width: 120px;
 	
-
-
-
+    background-color: green;
+	display: ruby-base;
+	width: 120px;
+	text-decoration-color: #E18728;
 }
